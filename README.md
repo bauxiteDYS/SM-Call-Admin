@@ -10,3 +10,4 @@ Sourcemod plugin that can call a Server Admin on Discord
 
 **Requirements**  
 - https://github.com/Sarrus1/DiscordWebhookAPI
+- SM >= 1.11
