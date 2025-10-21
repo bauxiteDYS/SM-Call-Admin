@@ -7,3 +7,6 @@ Sourcemod plugin that can call a Server Admin on Discord
 - It will put the message into a thread under the channel associated with the webhook
 - Players get 1 admin request per map, total requests 3 per map  
 - Meant to be used for tournaments and such idk
+
+**Requirements**  
+- https://github.com/Sarrus1/DiscordWebhookAPI
